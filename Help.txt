@@ -7,8 +7,8 @@ Grab the Changes
 
 *** Steps ***
 1. Pull from github. [git pull]
-2. Check if npm package installs/updates needed [npm install]
-2. Make some changes and build. [npm run build]
+2. Check if npm packages install/update needed [npm install]
+2. Make some changes to the project and build. [npm run build]
 To deploy to Netlify
 ** Make sure netlify-cli installed globally or do [npm install -g netlify-cli] **
 3. Deploy site to Netlify (first step) [netlify deploy (type ./dist)]

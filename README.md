@@ -1,8 +1,8 @@
-# React + Vite
+# Optech Hive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official github repository of Optech Hive website.
 
-Currently, two official plugins are available:
+Made with React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   [Website](https://optechhive.com)
+-   Founders [Mahfuz Zayn](https://github.com/mahfuzzayn) [Mushfique Raiyan](https://github.com/mushfiqueraiyan)

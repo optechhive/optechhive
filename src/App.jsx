@@ -6,7 +6,7 @@ function App() {
         <div className="flex flex-col justify-center items-center font-oswald h-[100vh] mx-4">
             <div className="text-container my-4">
                 <p className="text-xl">Welcome to,</p>
-                <h1 className="text-5xl">Optech Hive</h1>
+                <h1 className="text-5xl">Optech Hive - Software Agency</h1>
             </div>
             <img
                 src={optechHiveLogo}

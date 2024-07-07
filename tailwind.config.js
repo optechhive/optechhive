@@ -4,6 +4,12 @@ export default {
     theme: {
         fontFamily: {
             oswald: ["Oswald", "sans-serif"],
+
+        },
+        colors: {
+            'custom-blue': '#58DBD1',
+            'black': '#000',
+            'white': '#fff'
         },
         extend: {},
     },

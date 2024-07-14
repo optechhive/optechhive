@@ -10,7 +10,7 @@ function Hero() {
           Empowering Brands In The Digital Age
           </div>
         <div className='text-white my-9 w-100 text-center text-xl leading-normal'>
-          Consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore <br /> et dolore magna aliqua. Utenim minim veniam quis nostrud
+        We can help convert your dreams into reality by bringing together <br /> strategy, design, and production to build you a strong online
           </div>
         <button className='text-black bg-custom-blue border border-1  px-11 py-4 rounded-full'>
           ORDER NOW
